@@ -1,0 +1,32 @@
+                   Forbidden Island Game Instructions
+           By Raveena Jain (raveena97) and Sreeya Sai(ssai123) 
+
+A 2-player game!
+Player 1: CAPTAIN (arrow keys, pilot image)
+Player 2: MR.WASD (wasd keys, angsty cat head image)
+
+Types of Islands:
+Mountain Island (initial island): highest point at center, floods from outside in
+Random Island: heights scattered, helicopter placed at any of the highest points, floods by height 
+Random Terrain Island: shape of island randomized, floods by height 
+
+Goal of Game:
+The goal of this game is for both players to collect all of the black gears and return to the helicopter. Once a piece is collected, it will disappear off of the screen. Both players MUST return to the helicopter for you to WIN!
+If one or both pilots end(s) up on a flooded cell, unfortunately, you will drown and the game will end. 
+
+Score:
+Both players’ scores are tracked at the top of the screen. Every step (movement of pilot by one cell) a player takes adds one point to the score. The lower your score the better! 
+
+How to Play:
+-m key will reset to a Mountain Island
+-r key will reset to a Random Island
+-t key will reset to a Random Terrain Island
+- up arrow key moves CAPTAIN up one cell
+- down arrow key moves CAPTAIN down one cell
+- left arrow key moves CAPTAIN left one cell
+- right arrow key moves CAPTAIN right one cell
+- w key moves MR.WASD up one cell
+- a key moves MR.WASD left one cell
+- s key moves MR.WASD down one cell
+- d key moves MR.WASD right one cell
+
